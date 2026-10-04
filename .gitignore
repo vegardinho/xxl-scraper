@@ -1,0 +1,5 @@
+.email_pwd
+input/*
+data/*
+logs/*
+Pipfile*
